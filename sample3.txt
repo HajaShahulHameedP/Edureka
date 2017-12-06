@@ -1,1 +1,1 @@
-sample code for sample.
+sample code for sample feaure.
