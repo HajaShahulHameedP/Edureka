@@ -1,1 +1,1 @@
-assignment2 diff command check.
+assignment2 diff command check for merfing conflict.
