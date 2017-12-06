@@ -1,1 +1,4 @@
+
 assignment2 diff command check for merfing conflict.
+
+assignment2 diff command check adding extra codes.
